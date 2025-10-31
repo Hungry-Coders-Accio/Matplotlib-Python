@@ -1,4 +1,4 @@
-# Matplotlib - Step‑by‑Step Guide
+# Matplotlib - Notes
 
 Dear Students. 
 These notes are your go‑to reference for learning and using Matplotlib effectively. We will keep it practical, structured, and example‑driven so you can plug this into your projects and assignments immediately.
